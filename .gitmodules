@@ -1,3 +1,6 @@
 [submodule "FEF"]
 	path = FEF
 	url = https://github.com/mduran-nerd/FEF
+[submodule "mfef"]
+	path = mfef
+	url = https://github.com/mduran-nerd/mfef
